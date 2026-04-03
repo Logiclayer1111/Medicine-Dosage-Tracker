@@ -4,7 +4,7 @@ import { useInView } from 'react-intersection-observer';
 
 const founders = [
   {
-    name: "Mr.Sai Charan Suggala",
+    name: "Mr.Antoni Nowicki",
     role: "CEO & Co-founder",
     image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400",
     bio: "With over 15 years of experience in healthcare management, Dr. Johnson leads our mission to revolutionize healthcare accessibility."

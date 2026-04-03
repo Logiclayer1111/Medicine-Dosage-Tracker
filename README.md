@@ -45,7 +45,7 @@ A full-stack application designed to help users manage their daily medicine inta
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CharanSuggala26/Medicine-Dosage-Tracker.git
+git clone https://github.com/logiclayer1111/Medicine-Dosage-Tracker.git
 cd Medicine-Dosage-Tracker
 ```
 2. Install backend dependencies:

@@ -64,11 +64,10 @@ npm run dev
 
 ## 📧 Contact
 
-- 📬 **Email**: [saicharanguptha26@gmail.com](mailto:saicharanguptha26@gmail.com)  
-- 🌐 **Portfolio**: [my-portfolio-lovat-six-79.vercel.app](https://my-portfolio-lovat-six-79.vercel.app/)  
-- 💻 **GitHub**: [github.com/CharanSuggala26](https://github.com/CharanSuggala26)  
-- 🔗 **LinkedIn**: [linkedin.com/in/saicharansuggala](https://www.linkedin.com/in/saicharansuggala/)  
-- 📸 **Instagram**: [instagram.com/suggala_charan](https://www.instagram.com/suggala_charan)
+- 📬 **Email**: [atn2122804@gmail.com](mailto:atn2122804@gmail.com)  
+- 🌐 **Portfolio**: [my-portfolio-antoni-six-78.vercel.app](https://my-portfolio-antoni-six-78.vercel.app/)  
+- 💻 **GitHub**: [github.com/logiclayer1111](https://github.com/logiclayer1111)  
+- 🔗 **LinkedIn**: [linkedin.com/in/antoni-nowicki](https://www.linkedin.com/in/antoni-nowicki/)
 
 
 

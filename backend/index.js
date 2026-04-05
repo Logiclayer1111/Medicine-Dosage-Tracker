@@ -12,7 +12,7 @@ const medicineApp = require("./APIs/medicineApp.js");
 const razorApp = require("./APIs/RazorPay.js");
 
 const app = express();
-const port = process.env.PORT || 3500;
+const port = process.env.PORT || 5500;
 
 app.use(cors());
 app.use(express.json());

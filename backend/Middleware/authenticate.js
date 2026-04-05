@@ -1,12 +1,12 @@
 const jwt = require("jsonwebtoken");
 require("dotenv").config();
-const tkn = process.env.TOKEN;
+const token = process.env.TOKEN;
 
 const verifyToken = (req, res, next) => {
   const tokenString = req.headers.authorization;
   const token = tokenString.split(" ")[1];
   if (token) {
-    jwt.verify(token, tkn, (err, decoded) => {
+    jwt.verify(token, token, (err, decoded) => {
       if (err) {
         return res.send({
           status: 403,

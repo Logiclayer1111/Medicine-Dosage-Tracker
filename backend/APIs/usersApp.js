@@ -4,7 +4,7 @@ const jwt = require("jsonwebtoken");
 const userApp = exp.Router();
 const expressAsyncHandler = require("express-async-handler");
 require("dotenv").config();
-const tkn = process.env.TOKEN;
+const token = process.env.TOKEN;
 
 const createNewUser = expressAsyncHandler(async (req, res) => {
   const usersCollection = req.app.get("usersCollection");
@@ -53,7 +53,7 @@ const loginUser = expressAsyncHandler(async (req, res) => {
   }
   const userID = dbUser._id;
   const dbUsername = dbUser.name;
-  const token = jwt.sign({ id: userID, name: dbUsername }, tkn);
+  const token = jwt.sign({ id: userID, name: dbUsername }, token);
   return res.send({ token, dbUsername, message: "Login Successful!" });
 });
 
